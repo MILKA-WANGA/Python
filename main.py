@@ -40,3 +40,8 @@ print(type(text))
 text_1=(12,"abc",45,"abc")
 
 print(type(text_1))
+
+#set
+text_2={12,"abc",45,"abc"}
+
+print(type(text_2))

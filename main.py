@@ -11,3 +11,5 @@ name="Joyce"
 print(name)
 a=1.23
 print(a)
+b=12.457889
+print(b)

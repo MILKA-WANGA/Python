@@ -6,3 +6,5 @@ print(a*b)
 print(a-b)
 print(a/b)
 print(a//b)
+#Comparative operator
+print(a==b)

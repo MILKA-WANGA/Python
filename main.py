@@ -38,10 +38,18 @@ print(text)
 print(type(text))
 #tuple
 text_1=(12,"abc",45,"abc")
-
+print(text_1)
 print(type(text_1))
 
 #set
 text_2={12,"abc",45,"abc"}
-
+print(text_2)
 print(type(text_2))
+
+text_3={
+    "Name":"Wamboi",
+    "Age":45,
+    "salary":20000
+}
+print(text_3)
+print(type(text_3))

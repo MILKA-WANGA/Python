@@ -3,3 +3,7 @@ print("Programming ")
 #Using separator variable
 print('Today is',end=' ')
 print(17,6,2023,sep='/')
+
+#Variables
+Num=17
+print(Num)

@@ -24,3 +24,11 @@ print(type(b))
 input("Enter your name:")
 #Get input from user and output on the screen
 print(input("Enter your name:"))
+#store user input on a vaiable
+firstname=(input("Enter your first name:"))
+print(firstname)
+#Adding numbers
+num_1=input("Enter the first number")
+num_2=input("Enter the second number")
+sum=num_1+num_2
+print(sum)

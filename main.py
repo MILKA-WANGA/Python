@@ -20,3 +20,5 @@ print(type(a))
 b=12.457889
 print(b)
 print(type(b))
+#Get input from user
+input("Enter your name:")

@@ -36,3 +36,7 @@ print(sum)
 text=[12,"abc",45,"abc"]
 print(text)
 print(type(text))
+#tuple
+text_1=(12,"abc",45,"abc")
+
+print(type(text_1))

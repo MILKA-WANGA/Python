@@ -35,3 +35,4 @@ print(sum)
 #List
 text=[12,"abc",45,"abc"]
 print(text)
+print(type(text))

@@ -7,3 +7,5 @@ print(17,6,2023,sep='/')
 #Variables
 Num=17
 print(Num)
+name="Joyce"
+print(name)

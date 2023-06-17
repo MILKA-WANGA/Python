@@ -30,5 +30,5 @@ print(firstname)
 #Adding numbers
 num_1=input("Enter the first number")
 num_2=input("Enter the second number")
-sum=num_1+num_2
+sum=int(num_1)+int(num_2)
 print(sum)

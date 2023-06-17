@@ -22,3 +22,5 @@ print(b)
 print(type(b))
 #Get input from user
 input("Enter your name:")
+#Get input from user and output on the screen
+print(input("Enter your name:"))
